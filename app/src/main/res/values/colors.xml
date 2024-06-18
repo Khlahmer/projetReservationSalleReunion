@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparentColorPrimaryDark">#3949AB</color>  <!-- b81a8ea5 -->
+    <color name="colorOffLigne">#d2ffa500</color>
+    <color name="blue_buton_color">#0a3f52</color>
+    <color name="blue_dark_buton_color">#06344A</color>
+    <color name="Transparent">#00ffffff</color>
+    <color name="white_color">#fff</color>
+    <color name="black_color">#212121</color>
+
+    <color name="Gray_Dolphin">#5C5858</color>
+    <color name="Granite">#837e7c</color>
+    <color name="gray_disbled">#ccc</color>
+    <color name="Gray_Cloud">#b6b6b4</color>
+    <color name="Gray_Goose">#d1d0ce</color>
+    <color name="Platinum">#EFEFEF</color>
+    <color name="Blue_Koi">#659EC7</color>
+    <color name="Blue_Dress">#157dec</color>
+    <color name="Green_Apple">#4CC417</color>
+    <color name="Dollar_Bill_Green">#85bb65</color>
+    <color name="Green_light">#9e519b49</color>
+
+    <color name="Beer">#FBB117</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="Yellow">#ffd85b</color>
+    <color name="Orange">#FF8F00</color>
+    <color name="Orangee">#FF8700</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="Red">#e61c27</color>
+    <color name="Rouge_bourdeau">#b6322b</color>
+    <color name="Bleu_ciel">#459ace</color>
+    <color name="WhiteSmoke">#f5f5f5</color>
+    <color name="Beige">#f5f5dc</color>
+    <color name="Honeydew">#F0FFF0</color>
+    <color name="Lavender">#E6E6FA</color>
+    <color name="GreenYellow">#ADFF2F</color>
+    <color name="DarkGray">#a9a9a9</color>
+    <color name="Gray">#808080</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="Green">#0d6d37</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Black">#000000</color>
+    <color name="light_disable_color">#ccc</color>
+    <color name="Green_fluo">#09c441</color>
+    <color name="Green_gazon">#4c8c4a</color>
+    <color name="Green_normal">#28a745</color>
+
+</resources>
